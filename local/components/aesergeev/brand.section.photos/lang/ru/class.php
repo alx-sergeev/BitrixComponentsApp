@@ -1,0 +1,2 @@
+<?php
+$MESS['COMP_AES_SECTION_OTHER_TITLE'] = "Другое";
