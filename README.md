@@ -1,5 +1,5 @@
 # programming
 Репозиторий с примерами моего кода
 
-Папка /snake/ - игра змейка на JavaScript<br/>
-Папка /local/components/ - примеры моих компонентов в Bitrix Framework
+Папка local/components/aesergeev/calculator.fuel - компонент Bitrix Framework, созданный с помощью component.php<br/>
+Папка local/components/aesergeev/brand.section.photos - компонент Bitrix Framework, созданный с помощью class.php<br/>
